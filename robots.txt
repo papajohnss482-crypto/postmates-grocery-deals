@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://postmates-grocery-deals.vercel.app/sitemap.xml
